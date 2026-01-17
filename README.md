@@ -8,9 +8,9 @@
 
 ## 获取模板
 
-如果不愿意花时间折腾，只需18.88元请我喝杯奶茶即可获取完整的模板源码！
+如果不愿意花时间折腾，只需8.88元请我喝杯柠檬水即可获取完整的模板源码！
 
-<img width="313" height="358" alt="image" src="https://github.com/user-attachments/assets/e273b58a-d47f-421d-b380-539c5daddabf" />
+<img width="313" height="358" alt="image" src="https://github.com/user-attachments/assets/81962808-6c49-4fc2-a6cf-8decd721cc77" />
 
 
 
