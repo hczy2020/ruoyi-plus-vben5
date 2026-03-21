@@ -1,6 +1,6 @@
 # ruoyi-plus-vben5 最新代码生成模板
 
-本代码生成模板对应的源仓库地址为： https://gitee.com/dapppp/ruoyi-plus-vben5
+本代码生成模板对应的源仓库地址为： [https://gitee.com/dapppp/ruoyi-plus-vben5](https://github.com/imdap/ruoyi-plus-vben5) main分支
 
 如果你花时间折腾，可以根据演示站生成的vben5的代码，反向去推导代码生成模板！
 
